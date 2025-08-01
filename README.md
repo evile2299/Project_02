@@ -32,7 +32,7 @@ Welcome to the **Modern Tech Solutions HR Management System**, a full-stack web 
 1. **Navigate to the backend folder and install dependencies**
    ```bash
    cd backend
-   npm install cors dotenv express mysql2
+   npm install cors dotenv express mysql2 node
    ```
    ** Then run the app.js **
    ```
